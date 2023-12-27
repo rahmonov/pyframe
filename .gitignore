@@ -2,3 +2,7 @@
 .pytest_cache
 venv
 .coverage
+pyframe2.egg-info
+pyframe.egg-info
+build
+dist

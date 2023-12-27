@@ -12,12 +12,12 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'pyframe'
+NAME = 'pyframe2'
 DESCRIPTION = 'PyFrame - a framework built for learning purposes.'
 EMAIL = 'jrahmonov2@gmail.com'
 AUTHOR = 'Jak Kahogi'
 REQUIRES_PYTHON = '>=3.9.0'
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
