@@ -1,0 +1,2 @@
+[run]
+omit = venv/*,test_pyframe.py,conftest.py,app.py
